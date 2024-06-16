@@ -1,0 +1,11 @@
+{
+    "firstName": "Agung",
+    "lastName": "Krisna",
+    "address": {
+        "country": "Indonesia",
+        "province": "Jawa Barat",
+        "city": "Kabupaten Bandung",
+        "district": "Baleendah"
+    },
+    "hobby": ["Mengunjungi Paskal", "Melihat Tobrut"]
+}
